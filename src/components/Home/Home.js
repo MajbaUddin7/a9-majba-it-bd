@@ -12,8 +12,7 @@ const Home = () => {
                     </div>
                     <div className="cover-info md:w-1/2 sm:w-full pl-12 md:text-left sm:text-center">
                         <h2 className='text-3xl font-bold my-4'>Majba IT BD</h2>
-                        <h4>A bangladeshi leading Online learning Platform.</h4>
-                        <p>Let's start today to learn new thing</p>
+                        <p>We are a local organization leading online learning platform in Bangladesh. Our goal is to create human power in the computer world. So Let's start with the enthusiasm to learn something new.</p>
                     </div>
                 </div>
                 <div className="">
